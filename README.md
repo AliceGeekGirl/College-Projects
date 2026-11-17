@@ -37,17 +37,6 @@ Repositório centralizado para armazenamento, documentação e versionamento de 
 * Criação manual de scripts SQL DDL/DML, junções avançadas (`JOINs`) e *Window Functions*.
 * Programação avançada em banco de dados: **Stored Procedures**, **Functions** e **Triggers** em T-SQL.
 
-### 📐 3. Cálculo 2
-* Aplicação rigorosa de técnicas de integração indefinida e definida.
-* Cálculo de áreas, volumes de sólidos de revolução e resolução de Equações Diferenciais Ordinárias (EDOs) de 1ª e 2ª ordem.
-
-### ⚡ 4. Física 2
-* Análise prática e teórica de Termodinâmica, Mecânica dos Fluidos, Ondulatória e Acústica.
-* Elaboração de relatórios laboratoriais baseados em testes virtuais e experimentos físicos com tratamento analítico de dados.
-
-### 📊 5. Estatística (EAD)
-* Análise descritiva de dados, probabilidade (Teorema de Bayes), distribuições discretas (Binomial/Poisson) e contínuas (Normal).
-
 ---
 
 ## 📁 Estrutura do Repositório
@@ -56,6 +45,3 @@ Repositório centralizado para armazenamento, documentação e versionamento de 
 academic-projects/
 ├── Front-end/                 # Projetos web, interfaces e entregas do projeto ABP
 ├── database-management/       # Scripts SQL (DDL/DML), modelagens relacionais e T-SQL (BD 2)
-├── physics-lab/               # Relatórios experimentais, dados e simulações de Física 2
-├── calculus-methods/          # Resolução de problemas aplicados e métodos de Cálculo 2
-└── statistics-analytical/     # Exercícios de análise de dados e probabilidades
