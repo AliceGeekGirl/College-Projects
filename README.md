@@ -43,3 +43,9 @@ Repositório centralizado para armazenamento, documentação e versionamento de 
 academic-projects/
 ├── Front-end/                 # Projetos web, interfaces e entregas do projeto ABP
 ├── database-management/       # Scripts SQL (DDL/DML), modelagens relacionais e T-SQL (BD 2)
+
+## 🌐 Conecte-se comigo
+
+* [LinkedIn](https://www.linkedin.com/in/alice-da-cruz-justi-37580438a)
+* [GitHub](https://github.com/AliceGeekGirl/AliceGeekGirl)
+* [Instagram](https://www.instagram.com/alice_na_tech/)
