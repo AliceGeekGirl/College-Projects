@@ -1,6 +1,6 @@
-# College Projects & Activities 🎓
+# Academic Projects 🎓
 
-Repositório centralizado para armazenamento, documentação e versionamento de todas as atividades práticas, laboratórios, desafios de programação e projetos acadêmicos desenvolvidos durante o **3º Semestre** do curso de **Engenharia de Computação**.
+Repositório centralizado para armazenamento, documentação e versionamento de todas as atividades práticas, laboratórios, desafios de programação e projetos acadêmicos desenvolvidos durante os **Semestres** do curso de **Engenharia de Computação**.
 
 ---
 
@@ -16,16 +16,16 @@ Repositório centralizado para armazenamento, documentação e versionamento de 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
 | Área | Tecnologias e Ferramentas |
-| --- | --- |
+| :--- | :--- |
 | **Front-End & Web** | JavaScript (ES6+), React, HTML5, CSS3, Vite |
-| **Banco de Dados** | SQL (DDL/DML), T-SQL (Stored Procedures, Triggers, Views), PostgreSQL, Draw.io |
+| **Banco de Dados** | SQL (DDL/DML), T-SQL (Stored Procedures, Triggers, Views), SQL Server, PostgreSQL, Draw.io |
 | **Cálculo & Métodos** | Integração por Substituição, Partes, Frações Parciais e EDOs |
 | **Física Experimental** | Termodinâmica, Mecânica dos Fluidos, Simuladores Virtuais e Coleta de Dados |
 | **Ambientes & Versionamento** | Git, GitHub, VS Code / Codespaces |
 
 ---
 
-## 🎯 Frentes Acadêmicas do Semestre
+## 🎯 Frentes Acadêmicas do Semestre Atual (**3º Semestre**)
 
 ### 🌐 1. Front-End (Projeto ABP)
 * Desenvolvimento de interfaces web reativas e modernas em **React** atreladas ao projeto interdisciplinar.
@@ -49,3 +49,13 @@ Repositório centralizado para armazenamento, documentação e versionamento de 
 * Análise descritiva de dados, probabilidade (Teorema de Bayes), distribuições discretas (Binomial/Poisson) e contínuas (Normal).
 
 ---
+
+## 📁 Estrutura do Repositório
+
+```text
+academic-projects/
+├── Front-end/                 # Projetos web, interfaces e entregas do projeto ABP
+├── database-management/       # Scripts SQL (DDL/DML), modelagens relacionais e T-SQL (BD 2)
+├── physics-lab/               # Relatórios experimentais, dados e simulações de Física 2
+├── calculus-methods/          # Resolução de problemas aplicados e métodos de Cálculo 2
+└── statistics-analytical/     # Exercícios de análise de dados e probabilidades
