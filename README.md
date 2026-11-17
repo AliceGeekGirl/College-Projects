@@ -1,4 +1,4 @@
-<img width="904" height="496" alt="image" src="https://github.com/user-attachments/assets/43608631-daec-4a8d-b39d-6cb76ea82f14" /># Academic Projects 🎓
+# Academic Projects 🎓
 
 Repositório centralizado para armazenamento, documentação e versionamento de todas as atividades práticas, laboratórios, desafios de programação e projetos acadêmicos desenvolvidos durante os **Semestres** do curso de **Engenharia de Computação**.
 
