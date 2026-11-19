@@ -1,4 +1,4 @@
-# Academic Projects 🎓
+# College Projects 🎓
 
 Repositório centralizado para armazenamento, documentação e versionamento de todas as atividades práticas, laboratórios, desafios de programação e projetos acadêmicos desenvolvidos durante os **Semestres** do curso de **Engenharia de Computação**.
 
